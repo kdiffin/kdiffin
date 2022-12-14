@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex;">
-  <span><h4 >Discord: </h4></span> kdiffin#5370
+  **Discord: ** kdiffin#5370
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
