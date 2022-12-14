@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Davud Ibrahim ! !</h1>
 <h3 align="center">! ☆ up n coming web dev from Azerbaijan ☆ !</h3>
 
-- 🔭 I’m currently working on [countries](https://countries-jeweixx.vercel.app/)
+- 🔭 I’m currently working on: [countries](https://countries-jeweixx.vercel.app/)
 
-- 🌱 I’m currently learning **React, React-router, Typescript, Tailwind css (really loving it so far),firebase and redux**
+- 🌱 I’m currently learning: **React, React-router, Typescript, Tailwind css (really loving it so far),firebase and redux**
 
-- 💯 A project i've finished [Heydar Aliyev tribute](https://heydar-aliyev.vercel.app/)
+- 💯 A project i've finished: [Heydar Aliyev tribute](https://heydar-aliyev.vercel.app/)
 
-- 💬 Ask me about **anything about react, react router, javascript or tailwind css**
+- 💬 Ask me about: **anything about react, react router, javascript or tailwind css**
 
-- 📫 How to reach me **ibra.davud@gmail.com**
+- 📫 How to reach me: **ibra.davud@gmail.com**
 
-- ⚡ Fun fact **i play metal on my classic guitar 😭**
+- ⚡ Fun fact: **i play metal on my classic guitar 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
