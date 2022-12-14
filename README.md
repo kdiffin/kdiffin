@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Davud Ibrahim ! !</h1>
-<h3 align="center">! ☆ up n coming web dev from Azerbaijan ☆ !</h3>
+<h1 align="center">sup, I'm Davud Ibrahim </h1>
+<h3 align="center"> ☆ up n coming web dev from Azerbaijan ☆ </h3>
 
 - 🔭 I’m currently working on: [countries](https://countries-jeweixx.vercel.app/)
 
