@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **i play metal on my classic guitar 😭**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex">
   <span><h4 >Discord: </h4></span> kdiffin#5370
 </p>
 
