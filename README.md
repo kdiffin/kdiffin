@@ -1,5 +1,5 @@
 <h1 align="center">sup! I'm Davud Ibrahim </h1>
-<h3 align="center"> ☆ up n coming web dev from Azerbaijan ☆ </h3>
+<h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="100" height="100">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="100" height="75"> </h3>
 
 - 🔭 I’m currently working on: [countries](https://countries-jeweixx.vercel.app/)
 
