@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [countries](https://countries-jeweixx.vercel.app/)
 
-- 🌱 I’m currently learning: **React, React-router, Typescript, Tailwind css (really loving it so far),firebase and redux**
+- 🌱 I’m currently learning: **react query and react hooks**
 
 - 💯 A project i've finished: [Heydar Aliyev tribute](https://heydar-aliyev.vercel.app/)
 
