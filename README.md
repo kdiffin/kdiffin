@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **react query and react hooks**
 
-- 🐐 10000000% self taught!!! :b 
+- 🐐 10000000% self taught!!! 
 
 - 💯 A project i've finished: [Heydar Aliyev tribute](https://heydar-aliyev.vercel.app/)
 
