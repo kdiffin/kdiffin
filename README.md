@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [countries](https://countries-jeweixx.vercel.app/)
 
-- 🌱 I’m currently learning: **typescript and firebase**
+- 🌱 I’m currently learning: **typescript, firebase and material UI**
 
 - 🐐 10000000% self taught!!! 
 
