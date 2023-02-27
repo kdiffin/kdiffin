@@ -1,9 +1,8 @@
 <h1 align="center">sup! I'm Davud Ibrahim </h1>
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
-- 🔭 I’m currently working on: [countries](https://countries-jeweixx.vercel.app/)
-
-- 🌱 I’m currently learning: **typescript, firebase and material UI**
+- 🔭 I’m currently working on: [diffin chat](https://diffin-chat.vercel.app)
+- 🌱 I’m currently learning: **typescript, firebase **
 
 - 🐐 10000000% self taught!!! 
 
