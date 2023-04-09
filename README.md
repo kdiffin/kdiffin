@@ -2,13 +2,13 @@
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
 - 🔭 I’m currently working on: [diffin chat](https://diffin-chat.vercel.app)
-- 🌱 I’m currently learning: **typescript, firebase **
+- 🌱 I’m currently learning: **TRPC, Prisma**
 
 - 🐐 10000000% self taught!!! 
 
-- 💯 A project i've finished: [Heydar Aliyev tribute](https://heydar-aliyev.vercel.app/)
+- 💯 A project i've finished: [Diffin Chat](https://diffin-chat.vercel.app/)
 
-- 💬 Ask me about: **anything about react, react router, javascript or tailwind css**
+- 💬 Ask me about: **anything about React NextJS, Javascript or tailwind css**
 
 - 📫 How to reach me: **ibra.davud@gmail.com**
 
