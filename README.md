@@ -9,7 +9,7 @@
 
 - 🐐 10000000% self taught!!! 
 
-- 💯 A project i've finished: [diffin Chat](https://diffin-chat.vercel.app/)
+- 💯 A project i've finished: [diffin chat](https://diffin-chat.vercel.app/)
 
 - 💬 Ask me about: **anything about React, NextJS, Javascript, Typescript or Tailwind CSS**
 
