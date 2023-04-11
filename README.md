@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **ibra.davud@gmail.com**
 
-- ⚡ Fun fact: **i play metal on my classic guitar 😭**
+- ⚡ Fun fact: **I like playing classical guitar pieces**
 
 <h3 align="left">Connect with me:</h3>
 
