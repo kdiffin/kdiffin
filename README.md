@@ -1,7 +1,7 @@
 <h1 align="center">sup! I'm Davud Ibrahim </h1>
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
-- 🔭 I’m currently working on: [diffin chat](https://diffin-chat.vercel.app)
+- 🔭 I’m currently working on: My backend skills
 - 🌱 I’m currently learning: **TRPC, Prisma**
 
 - 🌀 Fan of the **T3 Stack**!
@@ -9,9 +9,9 @@
 
 - 🐐 10000000% self taught!!! 
 
-- 💯 A project i've finished: [Diffin Chat](https://diffin-chat.vercel.app/)
+- 💯 A project i've finished: [diffin Chat](https://diffin-chat.vercel.app/)
 
-- 💬 Ask me about: **anything about React NextJS, Javascript or tailwind css**
+- 💬 Ask me about: **anything about React, NextJS, Javascript, Typescript or Tailwind CSS**
 
 - 📫 How to reach me: **ibra.davud@gmail.com**
 
