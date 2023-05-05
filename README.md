@@ -159,6 +159,6 @@ rel="noreferrer"
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout_compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diffim&layout_compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br> </br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=diffim&count_private=true&theme=tokyonight&showicons=true)]()
