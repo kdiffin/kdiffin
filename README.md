@@ -11,7 +11,7 @@
 
 - 💯 A project i've finished: [diffin chat](https://diffin-chat.vercel.app/)
 
-- 💬 Ask me about: **anything about React, NextJS, Javascript, Typescript or Tailwind CSS**
+- 💬 Ask me about: **anything about React, Prisma, tRPC, NextJS, Javascript, Typescript or Tailwind CSS**
 
 - 📫 How to reach me: **ibra.davud@gmail.com**
 
