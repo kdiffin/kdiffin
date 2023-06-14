@@ -2,7 +2,7 @@
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
 - 🔭 I’m currently working on: My backend skills
-- 🌱 I’m currently learning: **TRPC, Prisma**
+- 🌱 I’m currently learning: **Golang, Fiber**
 
 - 🌀 Fan of the **T3 Stack**!
 
