@@ -1,7 +1,7 @@
 <h1 align="center">sup! I'm Davud Ibrahim </h1>
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
-- 🦇 Core Contributor at [@TrustAuthX](https://github.com/One-Click-Auth)
+- 🦇 Frontend Engineer and Contributor  [@TrustAuthX](https://github.com/One-Click-Auth)
 - 🔭 I’m currently working on: My backend skills
 - 🌱 I’m currently learning: **Golang, Fiber**
 
