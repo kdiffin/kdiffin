@@ -2,7 +2,7 @@
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
 - 🦇 Frontend Engineer and Contributor  [@TrustAuthX](https://github.com/One-Click-Auth)
-- 🔭 I’m currently working on: My backend skills
+- 🔭 I’m currently working on: [diffintrack](https://github.com/diffim/diffintrack)
 - 🌱 I’m currently learning: **Golang, Fiber**
 
 - 🌀 Fan of the **T3 Stack**!
@@ -10,9 +10,9 @@
 
 - 🐐 100% self taught!!! 
 
-- 💯 projects i've finished: [diffin chat](https://diffin-chat.vercel.app/), [diffinlist](https://diffilist.vercel.app/)
+- 💯 Projects i've finished: [diffin chat](https://diffin-chat.vercel.app/), [diffinlist](https://diffilist.vercel.app/)
 
-- 💬 Ask me about: **anything about React, Prisma, tRPC, NextJS, Javascript, Typescript or Tailwind CSS**
+- 💬 Ask me about: **Anything about React, Prisma, tRPC, NextJS, Javascript, Typescript or Tailwind CSS**
 
 - 📫 How to reach me: **ibra.davud@gmail.com**
 
