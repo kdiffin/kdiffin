@@ -160,6 +160,6 @@ rel="noreferrer"
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diffim&layout_compact&theme=tokyonight)](https://github.com/diffim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdiffin&layout_compact&theme=tokyonight)](https://github.com/kdiffin/github-readme-stats)
 <br> </br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=diffim&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kdiffin&count_private=true&theme=tokyonight&showicons=true)]()
