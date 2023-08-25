@@ -8,7 +8,7 @@
 - 🌀 Fan of the **T3 Stack**!
 
 
-- 🐐 10000000% self taught!!! 
+- 🐐 100% self taught!!! 
 
 - 💯 projects i've finished: [diffin chat](https://diffin-chat.vercel.app/), [diffinlist](https://diffilist.vercel.app/)
 
