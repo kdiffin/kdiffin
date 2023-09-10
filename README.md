@@ -10,7 +10,7 @@
 
 - 🐐 100% self taught!!! 
 
-- 💯 Projects i've finished: [diffin chat](https://diffin-chat.vercel.app/), [diffinlist](https://diffilist.vercel.app/)
+- 💯 Projects i've finished: [diffin chat](https://diffin-chat.vercel.app/), [diffinlist](https://diffinlist.vercel.app/)
 
 - 💬 Ask me about: **Anything about React, Prisma, tRPC, NextJS, Javascript, Typescript or Tailwind CSS**
 
