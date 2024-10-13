@@ -3,7 +3,7 @@
 
 - 🦇 Frontend Engineer and Contributor  [@TrustAuthX](https://github.com/One-Click-Auth)
 - 🔭 I’m currently working on: [diffintrack](https://github.com/diffim/diffintrack)
-- 🌱 I’m currently learning: **Golang, Fiber**
+- 🌱 I’m currently learning: **C++ & data structures and algorithms**
 
 - 🌀 Fan of the **T3 Stack**!
 
