@@ -1,8 +1,7 @@
 <h1 align="center">sup! I'm Davud Ibrahim </h1>
 <h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
 
-- 🦇 Frontend Engineer and Contributor  [@TrustAuthX](https://github.com/One-Click-Auth)
-- 🔭 I’m currently working on: [diffintrack](https://github.com/diffim/diffintrack)
+- 🔭 I’m currently working on: nothing!
 - 🌱 I’m currently learning: **C++ & data structures and algorithms**
 
 - 🌀 Fan of the **T3 Stack**!
