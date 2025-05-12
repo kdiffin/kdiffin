@@ -1,163 +1,39 @@
-<h1 align="center">sup! I'm Davud Ibrahim </h1>
-<h3 align="center"><img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5">  up n coming web dev from Azerbaijan <img src="./mushroom.gif" alt="My Project GIF" width="45" height="27.5"> </h3>
+<h1 align="center">kdiffin</h1>
+<h3 align="center">grug-brained dev from 🇦🇿</h3>
 
-- 🔭 I’m currently working on: nothing!
-- 🌱 I’m currently learning: **C++ & data structures and algorithms**
+---
 
-- 🌀 Fan of the **T3 Stack**!
+### 🧠 grug
+- rewriting my brain in **Go**, **HTMX**, and **Pure SQL**
+- real name: davud
+- frontend? grug no like library. grug like htmx, grug like backend driven development. grug like vanilla JS.
+- **React?** grug no like react, grug quit react, grug hate saas. grug like MPA. Grug HATE SPA. 
 
+---
 
-- 🐐 100% self taught!!! 
+### ⚙️ tools I actually like
 
-- 💯 Projects i've finished: [diffin chat](https://diffin-chat.vercel.app/), [diffinlist](https://diffinlist.vercel.app/)
+`Go` • `HTMX` • `Tailwind` • `Postgres` • `Docker` 
 
-- 💬 Ask me about: **Anything about React, Prisma, tRPC, NextJS, Javascript, Typescript or Tailwind CSS**
+---
 
-- 📫 How to reach me: **ibra.davud@gmail.com**
+### 🧪 learning rn
 
-- ⚡ Fun fact: **I like playing classical guitar**
+- C++ & DSA
+- networking (cs168 @berkley (grug not attend berkley)), HATEOAS, golang, gRPC, docker
+- building everything low-level, no training wheels, no libs
 
-<h3 align="left">Connect with me:</h3>
+---
 
-**Discord:** kdiffin#5370
+### 🛠 past life projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a
-href="https://www.typescriptlang.org/"
-target="_blank"
-rel="noreferrer"
->
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-/> 
-</a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">    
-<img
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1607554385%2Frepositories%2Fnext-js%2Fnext-logo.png&f=1&nofb=1&ipt=8ad8b8d4b3c96f3142d3fac716ff3cee38867532520d18e6cbdb78f33b7557d5&ipo=images"
-    alt="nextjs"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">    
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">    
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">    
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://trpc.io/" target="_blank" rel="noreferrer">    
-<img
-    src="https://trpc.io/img/logo.svg"
-    alt="trpc"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://prisma.io/" target="_blank" rel="noreferrer">    
-<img
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fzenn-user-upload%2Ftopics%2Fd07488226b.jpeg&f=1&nofb=1&ipt=5c287150e18bdf4144694684fe91f918cac365ac86f1b325e3a14ce3ecb20446&ipo=images"
-    alt="prisma"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://radix-ui.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F75042455%3Fv%3D4&f=1&nofb=1&ipt=396a29582e2726791ea87657b46eeb62ffc3a88c0ffe04e288e06daf7b0216ef&ipo=images"
-    alt="spring"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="tailwind"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://material-ui.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"
-    alt="material-ui"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer">    
-<img
-    src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-    alt="babel"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer">    
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">    
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux"
-    width="40"
-    height="40"
-/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">    
-<img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-/> 
-</a></p>
+- [diffinlist](https://diffinlist.vercel.app/)
+- [diffindex](https://diffindex.vercel.app/)
 
 
+---
 
+### 📫 connect
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdiffin&layout_compact&theme=tokyonight)](https://github.com/kdiffin/github-readme-stats)
-<br> </br>
+`discord:` kdiffin#5370  
+`email:` ibra.davud@gmail.com
