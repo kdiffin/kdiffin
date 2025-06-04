@@ -4,26 +4,33 @@
 ---
 
 ### 🧠 grug
-- rewriting my brain in **Go**, **HTMX**, and **Pure SQL**
+- htmx enjoyer/go stdlib enjoyer/js fatigued
 - real name: davud
-- frontend? grug no like library. grug like htmx, grug like backend driven development. grug like vanilla JS.
-- **React?** grug no like react, grug quit react, grug hate saas. grug like MPA. Grug HATE SPA. 
+- have a bunch of react/vercel/baas/clerk (soy) infested projects but now im trying to branch out into other fields of programming.
 
 ---
 
-### ⚙️ tools I actually like
+### ⚙️ tools I like working with
 
-`Go` • `HTMX` • `Tailwind` • `Postgres` • `Docker` 
+`Go` • `HTMX` • `Tailwind` • `DaisyUI`, `Postgres` • `Docker` 
 
 ---
 
 ### 🧪 learning rn
 
-- C++ & DSA
-- networking (cs168 @berkley (grug not attend berkley)), HATEOAS, golang, gRPC, docker
-- building everything low-level, no training wheels, no libs
+- networking (cs168 @berkley),
+- frontend/ui: HATEOAS, reactivity vs imperative (writing htmx makes me see the downfalls of imperative but it also lets me see the insane performance benefits)
+- nand2tetris
+- golang, gRPC, docker, trying to get into devops and self hosting on a vps
+- building everything low-level, no training wheels, no libs 
 
 ---
+
+
+### 🛠 cool new projects (no react (yes im dragging this))
+
+- [swagtask](https://swagtask.fly.dev/)
+  - i mess with this project cuz it barely has any dependencies 
 
 ### 🛠 past life projects
 
