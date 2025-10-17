@@ -3,26 +3,26 @@
 
 ---
 
-### 🧠 grug
-- htmx enjoyer/go stdlib enjoyer/js fatigued
+### 🧠 hello
+- htmx enjoyer/go stdlib enjoyer/js fatigued/uni student/intern
 - real name: davud
-- have a bunch of react/vercel/baas/clerk (soy) infested projects but now im trying to branch out into other fields of programming.
-
+- have a bunch of projects in ts, react (and related ecosystem tools), golang
+- portfolio: [https://kdiffin.vercel.app/]
 ---
 
 ### ⚙️ tools I like working with
 
-`Go` • `HTMX` • `Tailwind` • `DaisyUI`, `Postgres` • `Docker` 
+`Go` • `HTMX` • `Tailwind` • `DaisyUI` • `Postgres` • `Docker` • `Wireshark`
 
 ---
 
-### 🧪 learning rn
+### 🧪 learning
 
-- networking (cs168 @berkley),
-- frontend/ui: HATEOAS, reactivity vs imperative (writing htmx makes me see the downfalls of imperative but it also lets me see the insane performance benefits)
-- nand2tetris
-- golang, gRPC, docker, trying to get into devops and self hosting on a vps
-- building everything low-level, no training wheels, no libs 
+- networking took cs168 by berkley, 
+- frontend/ui: HATEOAS, reactivity vs imperative
+- ops: golang, gRPC, docker, trying to get into devops and self hosting on a vps, working with OpenStack at my internship rn
+- building everything low-level, no training wheels, no libs
+- telecommunication technologies cuz im an intern at Azercell (big telco)
 
 ---
 
@@ -36,6 +36,8 @@
 
 - [diffinlist](https://diffinlist.vercel.app/)
 - [diffindex](https://diffindex.vercel.app/)
+- [diffin-chat]([https://diffin-chat.vercel.app/](https://github.com/kdiffin/diffin-chat/tree/master/src))
+
 
 
 ---
