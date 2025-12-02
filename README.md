@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 hello
-- htmx enjoyer/go stdlib enjoyer/js fatigued/uni student/intern
+- htmx enjoyer/ go stdlib enjoyer / js fatigued / uni student/intern
 - real name: davud
 - have a bunch of projects in ts, react (and related ecosystem tools), golang
 - portfolio: [https://kdiffin.vercel.app/]
@@ -18,9 +18,9 @@
 
 ### 🧪 learning
 
-- networking took cs168 by berkley, 
-- frontend/ui: HATEOAS, reactivity vs imperative
-- ops: golang, gRPC, docker, trying to get into devops and self hosting on a vps, working with OpenStack at my internship rn
+- be: working with concurrent network level programming in golang
+- fe: HATEOAS, reactivity vs imperative
+- ops: gRPC, working with openstack, kubernetes at my internship rn.
 - building everything low-level, no training wheels, no libs
 - telecommunication technologies cuz im an intern at Azercell (big telco)
 
