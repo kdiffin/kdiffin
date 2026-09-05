@@ -19,6 +19,8 @@ currently into:
 * kubernetes & infrastructure
 * developer tooling
 
+I work in a telco company building out their tools.
+
 ### /projects
 
 **[flincgo](https://github.com/w1ntap3/flincgo/tree/collector)** — esp32 logging over udp, with a go collector/tui
