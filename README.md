@@ -8,7 +8,7 @@ I code by hand everyday and I vibe code, I do "operations" and I do "software de
 
 it's just a way to use a computer to get something done.
 
-I love working in the terminal. I love working in a *unix* terminal. GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.
+I love working in the terminal. I love working in a *unix* terminal. `GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.`
 
 trolling. I love hypermedia. the web is so fucking good. web 2.0 fucked it up with "RESTFUL" apis. That ain't rest. web 3.0 is ruined by it's community. Glory to true REST api's (as per [Fieldings definition](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)) and the OG web. 
 
