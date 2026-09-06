@@ -7,9 +7,12 @@ software engineer interested in systems, infrastructure, and the web.
 I fucking hate limits and false dichotomies in tech. 
 
 I code by hand everyday and I vibe code, I do "operations" and I do "software development".
-All of these are the same to me. 
 
 it's just a way to use a computer to get something done.
+
+But obviously don't act like slopping out AI is learning SWE.
+
+Just like when you read a technical book, you dont automagically become good at the language, the same thing can be said with AI. You don't become a better programmer by just half assedly reading your ai generated code. Still love agents though, how about that. There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in using **both**
 
 I love working in the terminal. I love working in a *unix* terminal. `GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.`
 
