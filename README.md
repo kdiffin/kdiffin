@@ -6,7 +6,8 @@ software engineer interested in systems, infrastructure, and the web.
 
 I fucking hate limits and false dichotomies in tech. 
 
-I code by hand everyday and I vibe code, I do "operations" and I do "software development". All of these are the same to me. 
+I code by hand everyday and I vibe code, I do "operations" and I do "software development".
+All of these are the same to me. 
 
 it's just a way to use a computer to get something done.
 
