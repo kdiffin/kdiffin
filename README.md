@@ -1,5 +1,7 @@
 ### /about
 
+<img width="200" height="150" alt="original-4dc638ba619489cb9aac356ddf1addc8-removebg-preview" src="https://github.com/user-attachments/assets/02726dba-85d6-4f8b-8bc2-4d3113123de1" />
+
 software engineer interested in systems, infrastructure, and the web.
 
 I fucking hate limits and false dichotomies in tech. 
