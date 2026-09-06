@@ -14,7 +14,7 @@ But obviously don't act like slopping out AI is learning SWE.
 
 Just like when you read a technical book. You dont automagically become a good developer by reading about advanced JS patterns, the same way you don't get better by half assedly reading your agents code. 
 
-Agents are still based though (if we ignore all the environmental and corporate problems they cause). There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in using **both**
+Agents are still based though (if we ignore all the environmental and corporate problems they cause). There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in doing **both**
 
 `3.` love working in the terminal. I love working in a *unix* terminal. `GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.`
 
