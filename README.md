@@ -12,7 +12,7 @@ it's just a way to use a computer to get something done.
 
 But obviously don't act like slopping out AI is learning SWE.
 
-Just like when you read a technical book. You dont automagically become a good developer by reading about advanced JS patterns, the same way you don't get better by half assedly reading your agents code. 
+It's just like when you're reading a technical book. You don't automagically become a good developer by reading about advanced JS patterns, you become better by implementing them by hand and using them in your later work. Same thing with AI. Reading slop don't make you as good as the slop (troll. I actually thing agents can write decent code in a vacuum). 
 
 Agents are still based though (if we ignore all the environmental and corporate problems they cause). There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in doing **both**
 
