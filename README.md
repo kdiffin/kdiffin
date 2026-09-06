@@ -2,9 +2,9 @@
 
 <img width="200" height="150" alt="original-4dc638ba619489cb9aac356ddf1addc8-removebg-preview" src="https://github.com/user-attachments/assets/02726dba-85d6-4f8b-8bc2-4d3113123de1" align="right" />
 
-software engineer interested in systems, infrastructure, and the web.
+`1.` software engineer interested in systems, infrastructure, and the web.
 
-I fucking hate limits and false dichotomies in tech. 
+`2.` I fucking hate limits and false dichotomies in tech. 
 
 I code by hand everyday and I vibe code, I do "operations" and I do "software development".
 
@@ -12,9 +12,11 @@ it's just a way to use a computer to get something done.
 
 But obviously don't act like slopping out AI is learning SWE.
 
-Just like when you read a technical book, you dont automagically become good at the language, the same thing can be said with AI. You don't become a better programmer by just half assedly reading your ai generated code. Still love agents though, how about that. There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in using **both**
+Just like when you read a technical book. You dont automagically become a good developer by reading about advanced JS patterns, the same way you don't get better by half assedly reading your agents code. 
 
-I love working in the terminal. I love working in a *unix* terminal. `GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.`
+Agents are still based though (if we ignore all the environmental and corporate problems they cause). There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in using **both**
+
+`3.` love working in the terminal. I love working in a *unix* terminal. `GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.`
 
 trolling. I love hypermedia. the web is so fucking good. web 2.0 fucked it up with "RESTFUL" apis. That ain't rest. web 3.0 is ruined by it's community. Glory to true REST api's (as per [Fieldings definition](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)) and the OG web. 
 
