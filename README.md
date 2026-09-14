@@ -37,11 +37,11 @@ I work in a telco company building out their tools.
 - **misc** — small tools, experiments, and things that probably belong in `/usr/local/bin` - [wslsp](https://github.com/kdiffin/wslsp), [educational go udp echo server](https://github.com/kdiffin/go-echo-server) 
 - **diffinlist, diffinchat, diffindex** — some of my prev frontend shit 
 
-### stack
+### /stack
 
 `go` `typescript` `linux` `kubernetes` `postgres` `kafka` `gitlab` `neovim` `typescript` `grafana` 
 
-### connect
+### /connect
 
 `discord:` kdiffin#5370
 `email:` [ibra.davud@gmail.com](mailto:ibra.davud@gmail.com)
