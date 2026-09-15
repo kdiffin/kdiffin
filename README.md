@@ -12,7 +12,7 @@ it's just a way to use a computer to get something done.
 
 But obviously don't act like slopping out AI is learning SWE.
 
-It's just like when you're reading a technical book. You don't automagically become a good developer by reading about advanced JS patterns, you become better by implementing them by hand. Same thing with AI.
+It's just like when you're reading a technical book. You don't automagically become a good developer by reading about "advanced JS patterns", you become better by implementing them by hand. Same thing with AI.
 
 Agents are still based though (*ignoring all of the environmental and market issues they cause*). There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in doing **both**.
 
