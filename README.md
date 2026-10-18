@@ -4,7 +4,7 @@
 
 `1.` software engineer interested in systems, infrastructure, and the web.
 
-`2.` I fucking hate limits and false dichotomies in tech. 
+`2.` I hate limits and false dichotomies in tech. 
 
 I code by hand everyday and I vibe code, I do "operations" and I do "software development".
 
@@ -14,11 +14,11 @@ But obviously don't act like slopping out AI is learning SWE.
 
 It's just like when you're reading a technical book. You don't automagically become a good developer by reading about "advanced JS patterns", you become better by implementing them by hand. Same thing with AI.
 
-Agents are still based though (*ignoring all of the environmental and market issues they cause*). There's a great value in having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in doing **both**.
+Agents are still based though (*ignoring all of the environmental and market issues they cause*). There's a great value in just generating some software for the sake of an idea, having them review your code, teach you an unfamiliar library, help you with the mental model, and overall *aid* you as a software engineer. There's no shame in doing **both**.
 
 `3.` love working in the terminal. I love working in a *unix* terminal. `GUI's and closed software is a plague which closes the eyes of man to the beauty of computers.`
 
-trolling. I love hypermedia. the web is so fucking good. web 2.0 fucked it up with "RESTFUL" apis. That ain't rest. web 3.0 is ruined by it's community. Glory to true REST api's (as per [Fieldings definition](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)) and the OG web. 
+trolling. I love hypermedia. the web is so fricking good. web 2.0 fricked it up with "RESTFUL" apis. That ain't rest. web 3.0 is ruined by it's community. Glory to true REST api's (as per [Fieldings definition](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)) and the OG web. 
 
 currently into:
 
