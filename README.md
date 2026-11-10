@@ -2,7 +2,7 @@
 
 <img width="200" height="150" alt="original-4dc638ba619489cb9aac356ddf1addc8-removebg-preview" src="https://github.com/user-attachments/assets/02726dba-85d6-4f8b-8bc2-4d3113123de1" align="right" />
 
-`work.` I work as a telecommunications engineer. I do automation work and build out their tools.
+I work as a telecommunications engineer. I do automation work and build out their tools.
 
 `stuff about me`
 
