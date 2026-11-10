@@ -32,14 +32,14 @@ I work in a telco company building out their tools.
 ### /projects
 
 - **[flincgo](https://github.com/w1ntap3/flincgo/tree/collector)** — esp32 logging over udp, with a go collector/tui
-- **grug-platform** — (WORK IN PROGRESS) learning distributed systems by building one (k8s clone)
-- **[swagtask](https://github.com/kdiffin/swagtask)** — todo app built in go and htmx. first endeavor into no lib/dep coding.
+- **[floes](https://codeberg.org/seal-lang/floes)** — (WORK IN PROGRESS) Package manager for my friends programming language. Hosted on codeberg.
+- **[swagtask](https://github.com/kdiffin/swagtask)** — real time collaborative task management app built in go and htmx. first endeavor into no dep coding / HATEOAS.
 - **misc** — small tools, experiments, and things that probably belong in `/usr/local/bin` - [wslsp](https://github.com/kdiffin/wslsp), [educational go udp echo server](https://github.com/kdiffin/go-echo-server) 
 - **diffinlist, diffinchat, diffindex** — some of my prev frontend shit 
 
 ### /stack
 
-`go` `typescript` `linux` `kubernetes` `postgres` `kafka` `gitlab` `neovim` `typescript` `grafana` 
+`go` `typescript` `linux` `kubernetes` `postgres` `kafka` `gitlab` `neovim` `grafana` `htmx` `react` 
 
 ### /connect
 
