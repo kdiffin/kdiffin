@@ -38,7 +38,7 @@ currently into:
 - **[floes](https://codeberg.org/seal-lang/floes)** — (WORK IN PROGRESS) Package manager for my friends programming language. Hosted on codeberg.
 - **[swagtask](https://github.com/kdiffin/swagtask)** — real time collaborative task management app built in go and htmx. first endeavor into no dep coding / HATEOAS.
 - **misc** — small tools, experiments, and things that probably belong in `/usr/local/bin` - [wslsp](https://github.com/kdiffin/wslsp), [educational go udp echo server](https://github.com/kdiffin/go-echo-server) 
-- **diffinlist, diffinchat, diffindex** — some of my prev frontend / fullstack shit 
+- **diffinlist, diffinchat, diffindex** — some of my prev frontend / fullstack stuff. 
 
 ### /stack
 
